@@ -35,6 +35,14 @@ Here is a code block
   
   <add key="ShowUserDefinedBugAttribute" value="1"/>
 
+Warning
+=======
+.. warning::
+    This is a warning
+
+.. warning::
+
+    This is another warning
 
 Here is a sourcecode block
 
