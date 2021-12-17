@@ -8,9 +8,6 @@ Log in as "admin" and click on the "admin" link along the top. You should now be
 .. code-block:: xml
 
   <add key="ShowUserDefinedBugAttribute" value="1"/>
-  {
-    "key": "value"
-  }
 
 code 
 
