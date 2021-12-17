@@ -5,7 +5,7 @@ You can enter bugs immediately after setup, but you probably want to make some c
 
 Log in as "admin" and click on the "admin" link along the top. You should now be viewing a page with links to "users", "projects", "categories", "priorities", and "statuses". Add/delete/change the values according to your needs.
 
-.. code-block:: JSON
+.. code-block:: xml
 
   <add key="ShowUserDefinedBugAttribute" value="1"/>
   {
