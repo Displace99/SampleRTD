@@ -20,7 +20,7 @@ When you first install BugTracker.NET, there are only these half-dozen or so fie
 
 Here is a code block
 
-.. code-block:: xml
+.. code-block:: 
     <add key="ShowUserDefinedBugAttribute" value="1"/>
 
 
