@@ -5,6 +5,12 @@ You can enter bugs immediately after setup, but you probably want to make some c
 
 Log in as "admin" and click on the "admin" link along the top. You should now be viewing a page with links to "users", "projects", "categories", "priorities", and "statuses". Add/delete/change the values according to your needs.
 
+.. code-block:: JSON
+
+  {
+    "key": "value"
+  }
+
 When you first install BugTracker.NET, there are only these half-dozen or so fields on the "edit_bug.aspx" page. Many people add more, for example "Version Fixed", "Due Date", etc. There are three ways to add custom fields:
 
 1. "user defined attribute" - This is the simplest way to add one custom field. You can use the simple "user defined attribute" dropdown that applies to all projects. Edit these lines in Web.config to use and name this additional dropdown:
