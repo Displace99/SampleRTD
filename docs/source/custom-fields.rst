@@ -39,10 +39,16 @@ Warning
 =======
 .. warning::
     This is a warning
+    1. Blah
+    2. Second Blah
 
 .. warning::
 
     This is another warning
+
+    1. Blah
+
+    2. Second blah
 
 Here is a sourcecode block
 
