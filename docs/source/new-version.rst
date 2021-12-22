@@ -1,14 +1,16 @@
-==============
+##############
 Versions 3.7
-==============
+##############
 
+*************
 Version 3.7.0
-=============
+*************
 Release Date: December 22, 2021
 
 It's been almost 2 years since the last release. Although this isn't a major release in regards to functionality, this release is setting the foundation for larger changes in the future. 
 
-**New**
+New
+====
 
 * Project level viewing. 
 
