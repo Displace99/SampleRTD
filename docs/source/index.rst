@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   custom-fields
+   new-version
