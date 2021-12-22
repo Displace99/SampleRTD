@@ -17,6 +17,7 @@ It's been almost 2 years since the last release. Although this isn't a major rel
 * Added security scanning via Sonar Cloud. Now we know just how good our code is.
 
 **Updated**
+
 * Consistency on how pages open. They should all open in the same tab instead of in different tabs and pop-up windows.
 * Documentation now resides on readthedocs.io (where you are probably reading this right now).
 * Moved away from a website project and created a web application project.
@@ -26,3 +27,4 @@ It's been almost 2 years since the last release. Although this isn't a major rel
 **Fixed**
 
 * Fixed a URL redirect exploit that could cause the user to be taken to a 3rd party site immediately after log in. Now the app knows that's not allowed and will only send you to internal pages following a log in.
+    * Here is an indented bullet point
